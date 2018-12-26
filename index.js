@@ -1,6 +1,6 @@
 //obter usuário
 // obter telefone
-// obter endereço
+// obter endereço vinicius
 
 
 function obterUsuario(callBack){
